@@ -10,27 +10,27 @@
 
 💬 Sou estudante de programação, apaixonada por tecnologia e desafios.
 
-- 💻 **Desenvolvimento Web:** HTML, CSS, JavaScript  
-- 🐍 **Python:** automações, pequenos projetos e scripts  
-- ⚡ **Gestão de TI e soluções digitais**  
-- 🛠 **Ferramentas:** Git, GitHub, VSCode, PyCharm  
 
----
+<div aling= 'center'>
+<img src="https://github-readme-stats.vercel.app/api?username=iamara akemi=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamara akemi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🏆 Meus objetivos
-- Crescer na área de tecnologia  
-- Aprender novas linguagens e frameworks  
-- Contribuir com projetos open-source  
-- Criar soluções digitais que impactem positivamente  
 
----
 
-### 📫 Contato
-- Email: akemiii@example.com  
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com)  
-- GitHub: [Seu GitHub](https://github.com/username)  
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 🎨 Badges de Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

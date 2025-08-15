@@ -10,10 +10,6 @@
 
 💬 Sou estudante de programação, apaixonada por tecnologia e desafios.
 
-<!-- Onda animada no topo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header">
-
-### 🌸 Habilidades & Skills
 - 💻 **Desenvolvimento Web:** HTML, CSS, JavaScript  
 - 🐍 **Python:** automações, pequenos projetos e scripts  
 - ⚡ **Gestão de TI e soluções digitais**  

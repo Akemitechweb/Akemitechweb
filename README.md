@@ -3,4 +3,4 @@
 
 <!-- Texto de boas-vindas -->
 <h2>Hi, welcome to my profile</h2>
-<h3>♡ Tech Girl </h3>
+<h3>♡ Tech Girl 🌐 ᯤ  </h3>
